@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "761004018762",
+    "firebase_url": "https://flash-1ef45.firebaseio.com",
+    "project_id": "flash-1ef45",
+    "storage_bucket": "flash-1ef45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761004018762:android:82e7c11b4e9e281f9a2ab3",
+        "android_client_info": {
+          "package_name": "com.aftiyah.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761004018762-jlgarm3k71653hiutvk0me6loaiehshi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSp3kNhsea2P7uZZO2dE5Kzpjx9efm4Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761004018762-jlgarm3k71653hiutvk0me6loaiehshi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
